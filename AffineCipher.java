@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;;
 
 public class AffineCipher {
     private static final int ALPHABET_SIZE = 26;
