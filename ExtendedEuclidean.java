@@ -64,7 +64,7 @@ public class ExtendedEuclidean {
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
         } finally {
-            scanner.close();;
+            scanner.close();
         }
     }
 }
